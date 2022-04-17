@@ -2,12 +2,13 @@
 name = "it-будка-сайт"
 version = "0.1.0"
 description = ""
-authors = ["lev <levbezrukov@bk.ru>"]
+authors = ["lev"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
 Sphinx = "^4.5.0"
 sphinx-rtd-theme = "^1.0.0"
+Sphinx-Substitution-Extensions = "^2022.2.16"
 
 [tool.poetry.dev-dependencies]
 
