@@ -24,7 +24,7 @@
     :maxdepth: 1
 
     rules.rst
-    bots_documentation.rst
+    bots_guide.rst
     server_support.rst
     level_system.rst
     monitoring_services.rst

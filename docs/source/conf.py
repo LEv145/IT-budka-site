@@ -29,7 +29,7 @@ author = 'LEv145'
 # ones.
 extensions = [
     "sphinx_substitution_extensions",
-    "sphinx.ext.autosectionlabel",
+    "sphinx_panels",
 ]
 rst_prolog = """
 .. |author| replace:: LEv145#9261
