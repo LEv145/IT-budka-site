@@ -29,6 +29,14 @@
 
     .. image:: _static/images/bots/mishka/preview_1.png
 
+.. tabbed:: Превью 2
+
+    .. image:: _static/images/bots/mishka/preview_2.png
+
+.. tabbed:: Превью 2
+
+    .. image:: _static/images/bots/mishka/preview_3.png
+
 
 ⌈/⌋ Утикс
 ---------
