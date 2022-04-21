@@ -18,21 +18,51 @@
 
     .. image:: _static/images/bots/jeggy/preview_1.png
 
+.. tabbed:: Превью 2
+
+    .. image:: _static/images/bots/jeggy/preview_2.png
+
+.. tabbed:: Превью 3
+
+    .. image:: _static/images/bots/jeggy/preview_3.png
+
+.. tabbed:: Превью 4
+
+    .. image:: _static/images/bots/jeggy/preview_4.png
+
+.. tabbed:: Превью 5
+
+    .. image:: _static/images/bots/jeggy/preview_5.png
+
+.. tabbed:: Превью 6
+
+    .. image:: _static/images/bots/jeggy/preview_6.png
+
+.. link-button:: https://jeggybot.xyz/
+    :text: Сайт
+    :classes: btn-primary
+
 
 ⌈/⌋ Мишка!
 ----------
 
 Бот с интересными мини-играми
 
-
 .. tabbed:: Превью 1
 
     .. image:: _static/images/bots/mishka/preview_1.png
 
+.. tabbed:: Превью 2
+
+    .. image:: _static/images/bots/mishka/preview_2.png
+
+.. tabbed:: Превью 2
+
+    .. image:: _static/images/bots/mishka/preview_3.png
+
 
 ⌈/⌋ Утикс
 ---------
-
 
 Бот с кучей функций в областях математики и криптографии
 
@@ -52,4 +82,24 @@
 
     .. image:: _static/images/bots/utix/preview_4.png
 
-`Список всех команд <https://utix.dev/commands/>`__
+.. link-button:: https://utix.dev/
+    :text: Сайт
+    :classes: btn-primary
+
+
+⌈/⌋ Мистер Том
+--------------
+
+Супер современный бот с кучей развлекательный и уникальных команд
+
+.. tabbed:: Превью 1
+
+    .. image:: _static/images/bots/mr_tom/preview_1.png
+
+.. tabbed:: Превью 2
+
+    .. image:: _static/images/bots/mr_tom/preview_2.png
+
+.. link-button:: https://mrtom.space/
+    :text: Сайт
+    :classes: btn-primary
